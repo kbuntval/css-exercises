@@ -1,0 +1,22 @@
+.class {
+    background-color: rgb(220, 0, 0, 0.5);
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.class.cooler {
+    font-size: 36px;
+}
+
+#uniqueblue {
+    color: blue;
+    background-color: white;
+    font-size: 40px;
+}
+
+#uniquegreen {
+    color: black;
+    background-color: rgb(173, 255, 47, 0.8);
+    font-weight: bold;
+    font-size: 30px;
+}
